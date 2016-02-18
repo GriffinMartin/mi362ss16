@@ -1,0 +1,2 @@
+subdomain: griffm.mooo.com
+heroku app: glacial-shelf-12622.herokuapp.com
