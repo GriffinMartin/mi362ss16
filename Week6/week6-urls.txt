@@ -1,0 +1,3 @@
+heroku database url: https://glacial-shelf-12622.herokuapp.com/db
+
+heroku static site w/CSS: http://tranquil-tor-19561.herokuapp.com
